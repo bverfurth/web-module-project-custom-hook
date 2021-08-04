@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import useLocalStorage from "./LocalStorage";
 
 const darkModeOn = "false";
 
